@@ -1,8 +1,18 @@
 [
   {
+    "name": "GeometrySpot (Com)",
+    "imageUrl": "/assets/img/GS.webp",
+    "url": "openAg('https://geometryspot.com/activities/')"
+  },
+  {
     "name": "Google",
     "imageUrl": "/assets/img/google-icon.webp",
     "url": "openAg('https://google.com')"
+  },
+  {
+    "name": "Roblox",
+    "imageUrl": "/assets/img/roblox.webp",
+    "url": "openAg('https://xn--31byd1i.net/apps/a/19900/b.html')"
   },
   {
     "name": "JuliusAI",
