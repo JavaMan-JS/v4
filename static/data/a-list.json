@@ -1,5 +1,10 @@
 [
   {
+    "name": "GBA Emulator",
+    "imageUrl": "/assets/img/n.webp",
+    "url": "openAg('https://gba.44670.org/')"
+  },
+  {
     "name": "GeometrySpot (Com)",
     "imageUrl": "/assets/img/GS.webp",
     "url": "openAg('https://geometryspot.com/activities/')"
